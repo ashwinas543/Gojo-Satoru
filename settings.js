@@ -10,7 +10,7 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {8d1daa80d8
-	zenz: 'https://zenzapis.xyz',6eedfe3cd6f1
+	zenz: 'https://zenzapis.xyz',8d1daa80d8
 }
 
 //Api Key\\
