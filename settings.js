@@ -10,12 +10,12 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',8d1daa80d8
+	zenz: 'https://zenzapis.xyz',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '8d1daa80d8',
 }
 
 //customize settings\\
