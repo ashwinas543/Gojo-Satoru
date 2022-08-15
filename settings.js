@@ -15,7 +15,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': '8d1daa80d8',
+	'https://zenzapis.xyz': 'b219fb3a98',
 }
 
 //customize settings\\
@@ -27,7 +27,7 @@ global.botname = '⸸ꪶ𝑰𝑻𝑺  𝑴𝑬  𝑳𝑼𝑻𝑻𝑨𝑷𝑷𝑰
 global.footer = '⸸ꪶ𝑰𝑻𝑺  𝑴𝑬  𝑳𝑼𝑻𝑻𝑨𝑷𝑷𝑰  ⃟🇮🇳.'
 global.ig = 'https://github.com/ashwinas543'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/ashwinas543/Gojo-Satoru'
 global.myweb = 'wa.me/916282137207?text=hlo+bro+big+fan+💖'
 global.packname = '⸸ꪶ𝑰𝑻𝑺  𝑴𝑬  𝑳𝑼𝑻𝑻𝑨𝑷𝑷𝑰  ⃟🇮🇳'
 global.author = 'ī.am/ꪶ͢𝕷𝒖𝒕𝒕𝒂𝒑𝒑ὶ♛'
